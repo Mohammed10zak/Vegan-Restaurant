@@ -34,7 +34,7 @@ export default function Navbar() {
             </a>
           </li>
           <li>
-            <a href="/#menu" className="menu">
+            <a href="#menu" className="menu">
               Menu
             </a>
           </li>
