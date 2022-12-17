@@ -49,13 +49,13 @@ export default function Navbar() {
         </ul>
 
         <li>
-          <a href="/#form">
+          
             {" "}
             <button className="book" onClick={handleClick}>
               <span className="lineB"></span>Book Now
               <span className="lineA"></span>
             </button>
-          </a>
+         
         </li>
       </nav>
       {isShown && <Form />}
