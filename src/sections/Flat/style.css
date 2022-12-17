@@ -1,0 +1,45 @@
+.flat {
+    display: flex;
+    color: #FFFFFC;
+    height: 390px;
+    width: 100vw;
+    background: rgba(16, 20, 24, 0.7);
+}
+
+.logoFlat img {
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.contentFlat {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.flatTitle {
+    width: 466px;
+    height: 70px;
+    font-family: 'Dancing Script';
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    letter-spacing: 0.1em;
+}
+
+.flatSale {
+
+    width: 250px;
+    height: 38px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    letter-spacing: 0.02em;
+    color: #FFCE6D;
+}
+
+.flatBtn {
+    margin-right: 40px;
+}

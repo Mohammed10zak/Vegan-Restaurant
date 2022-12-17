@@ -1,0 +1,39 @@
+.reviewsCard {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 35px;
+
+  width: 40%;
+  height: 385px;
+  color: #fffffc;
+
+  background-color: rgba(16, 20, 24, 0.7);
+  /* background-color:transparent; */
+}
+
+.rev {
+  display: flex;
+  gap: 40px;
+}
+.nameReviewer {
+  width: 150px;
+  height: 20px;
+  font-family: "Arial";
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0.13em;
+  text-transform: capitalize;
+}
+
+.reviewP {
+  width: 596px;
+  height: 148px;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.13em;
+  text-transform: capitalize;
+}

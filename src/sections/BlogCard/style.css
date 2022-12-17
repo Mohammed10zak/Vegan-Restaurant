@@ -1,0 +1,40 @@
+.blogCard {
+  display: flex;
+  flex-direction: column;
+  color: #fffffc;
+  width: 411px;
+  height: 530px;
+  font-family: "Arial";
+  text-transform: capitalize;
+  background-color: transparent;
+  background: rgba(16, 20, 24, 0.7);
+  
+}
+
+.blogContent {
+  margin: auto;
+  margin-left: 30px;
+}
+
+.blogT {
+  font-weight: 700;
+  font-size: 22px;
+  margin-top: 30px;
+}
+
+.blogP {
+  width: 302px;
+  height: 68px;
+  line-height: 30px;
+  text-transform: capitalize;
+}
+
+.blogBtn {
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #ffce6d;
+  height: 40px;
+  font-size: 14px;
+  color: #fffffc;
+  margin-bottom: 2em;
+}

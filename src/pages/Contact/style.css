@@ -1,0 +1,82 @@
+.contact {
+  width: 85vw;
+  height: 280px;
+  color: #fffffc;
+  font-family: "Roboto";
+  text-transform: capitalize;
+  background-color: transparent;
+  background: rgba(16, 20, 24, 0.7);
+  padding: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+}
+
+.logo {
+  vertical-align: middle;
+  margin: 0 10px 30px;
+}
+.resName {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  color: #fffccc;
+}
+
+.resDescription {
+  width: 302px;
+  height: 83px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+  letter-spacing: 0.13em;
+  margin-left: 50px;
+}
+
+.socialIcon {
+  margin-top: 20px;
+  margin-left: 50px;
+  display: flex;
+  gap: 20px;
+}
+
+.linkTitle {
+  width: 154px;
+  height: 19px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+}
+
+.links li {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 35px;
+  letter-spacing: 0.13em;
+}
+
+.contact2_Title {
+  width: 154px;
+  height: 19px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+}
+
+.contact_2 li {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 65px;
+  list-style: none;
+  letter-spacing: 0.13em;
+}
+.contact_2 li img {
+  margin-right: 20px;
+  vertical-align: sub;
+}
+
+.contact_2 li a {
+  text-decoration: none;
+  color: #fffffc;
+}

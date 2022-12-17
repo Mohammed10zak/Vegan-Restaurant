@@ -1,0 +1,27 @@
+.chef {
+  display: flex;
+  font-family: "Arial";
+  gap: 20px;
+  color: #fffffc;
+  width: 100vw;
+  height: 192px;
+  margin-left: 140px;
+}
+
+.chefImg {
+  margin-top: 1.3em;
+  width: 120px;
+  height: 114px;
+}
+
+.num {
+  font-weight: 500;
+  font-size: 42px;
+  color: #ffce6d;
+}
+
+.content {
+  font-weight: 500;
+  font-size: 18px;
+  margin-top: -30px;
+}

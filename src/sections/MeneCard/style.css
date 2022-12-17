@@ -1,0 +1,42 @@
+.menu_card {
+  display: flex;
+  color: #fffffc;
+  gap: 10px;
+  font-family: "Roboto";
+  margin-top: 4em;
+}
+
+.itemTitle {
+  width: 198px;
+  height: 15px;
+
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.itemDisc {
+  width: 172px;
+  height: 13px;
+
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.line {
+  width: 123px;
+  height: 0px;
+  margin-top: 2.5em;
+  border: 1px solid #ffce6d;
+}
+
+.price {
+  width: 63px;
+  height: 23px;
+  margin-top: 1.2em;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 23px;
+  color: #ffce6d;
+}

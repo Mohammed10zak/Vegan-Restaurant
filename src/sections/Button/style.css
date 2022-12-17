@@ -1,0 +1,12 @@
+.reuse_btn {
+  background-color: transparent;
+  color: #fff;
+  width: 200px;
+  padding: 16px 30px;
+  border: 2px solid #fffccc;
+  transition: 0.2s;
+}
+
+.reuse_btn:hover {
+  background-color: #a08040;
+}

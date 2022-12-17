@@ -1,0 +1,54 @@
+.about {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.mainTitle {
+    font-family: 'Dancing Script';
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 117.3%;
+    letter-spacing: 0.1em;
+    color: #FFCE6D;
+    margin-top: 100px;
+}
+
+.mainP {
+
+    width: 650px;
+    height: 64px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    text-transform: capitalize;
+    color: #FFFFFC;
+    margin-top: -30px;
+}
+
+.mainContent {
+    width: 568px;
+    height: 171px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 0.13em;
+    text-transform: capitalize;
+    color: #FFFFFC;
+    margin-bottom: 70px;
+}
+
+
+
+.mainImg {
+    width: 378px;
+    height: 407px;
+    margin-left: 720px;
+    margin-top: -400px;
+}

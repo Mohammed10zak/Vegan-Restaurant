@@ -1,0 +1,35 @@
+.card {
+width: 384px;
+height: 455px;
+align-items: center;
+justify-content: center;
+background: rgba(160, 128, 64, 0.3);
+border: 1px dashed #FFCE6D;
+display: flex;
+flex-direction: column;
+}
+
+.cardImg {
+    margin-top: 2em;
+}
+
+.cardTitle {
+font-family: 'Arial';
+font-size: 24px;
+text-transform: capitalize;
+color: #FFFFFC;
+}
+
+.cardContent {
+
+width: 268px;
+height: 128px;
+font-family: 'Roboto';
+font-weight: 400;
+font-size: 16px;
+line-height: 22px ;
+text-align: justify;
+letter-spacing: 0.13em;
+text-transform: capitalize;
+color: #FFFFFC;
+}

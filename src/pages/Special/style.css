@@ -1,0 +1,40 @@
+.special {
+    width: 100vw;
+    height: 850px;
+    background: rgba(16, 20, 24, 0.7);
+}
+
+.sTitle {
+
+    width: 138px;
+    height: 36px;
+    font-family: 'Dancing Script';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    margin: auto;
+    padding: 1.3em;
+    letter-spacing: 0.1em;
+    color: #FFCE6D;
+}
+
+
+.special p {
+    width: 324px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    text-transform: capitalize;
+    color: #FFFFFC;
+    margin: auto;
+}
+
+.cards {
+    margin-top: 7em;
+    margin-bottom: 7em;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}

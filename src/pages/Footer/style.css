@@ -1,0 +1,20 @@
+.footer {
+  width: 100vw;
+  height: 35px;
+  background-color: transparent;
+  background: rgba(16, 20, 24, 0.7);
+  color: #ffffff;
+  margin: auto;
+  padding: 20px;
+}
+
+.footer p {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 25px;
+  width: 200px;
+  text-align: center;
+  margin: auto;
+}
+

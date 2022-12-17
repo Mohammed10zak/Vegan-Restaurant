@@ -1,0 +1,42 @@
+.subscribe {
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+  margin-top: 20px;
+  padding: 25px;
+}
+
+.sub_msg {
+  margin-top: 20px;
+}
+.email {
+  vertical-align: sub;
+  margin-right: 10px;
+}
+
+.email_anchor {
+  text-decoration: none;
+  width: 257px;
+  height: 25px;
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  text-transform: capitalize;
+  color: #fffffc;
+}
+
+.email_id {
+  width: 407px;
+  padding: 16px 30px;
+  background-color: transparent;
+  background: rgba(16, 20, 24, 0.7);
+  color: #fff;
+  border: 2px solid #fffccc;
+  
+}
+
+::placeholder {
+  color: #fff;
+  opacity: 1;
+}

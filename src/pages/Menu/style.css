@@ -1,0 +1,38 @@
+.menu {
+    background-image: url('bg2.png');
+    height: 1100px;
+}
+
+.menuTitle {
+  width: 400px;
+  height: 36px;
+  font-family: "Dancing Script";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  margin: auto;
+  padding: 1.3em;
+  letter-spacing: 0.1em;
+  color: #ffce6d;
+}
+
+.subTitle {
+  width: 148px;
+  height: 25px;
+  font-family: "Arial";
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 35px;
+  margin: auto;
+  text-transform: capitalize;
+  color: #fffffc;
+}
+
+.Menus {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    align-items: center;
+}
+

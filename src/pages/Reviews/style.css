@@ -1,0 +1,33 @@
+.reviewsTitle {
+  width: 165px;
+  height: 36px;
+  font-family: "Dancing Script";
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 117.3%;
+  margin: auto;
+  letter-spacing: 0.1em;
+  color: #ffce6d;
+  padding: 13px;
+}
+
+.reviewsDisc {
+  width: 435px;
+  height: 25px;
+  font-family: "Arial";
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 117.3%;
+  margin: auto;
+  margin-top: 0.7em;
+  text-transform: capitalize;
+  color: #fffffc;
+}
+
+.reviewsCards {
+  display: flex;
+  justify-content: center;
+  margin-top: 3em;
+  gap: 100px;
+  margin-bottom: 3em;
+}

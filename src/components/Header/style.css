@@ -1,0 +1,39 @@
+.headbg {
+    width: 100vw;
+    height: 894px;
+    background: linear-gradient(180deg, rgba(16, 20, 24, 0) 0%, #101418 100%), url('headbg.png');
+}
+
+.title {
+    position: absolute;
+    width: 355px;
+    height: 106px;
+    left: 570px;
+    top: 450px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 55px;
+    text-align: center;
+    color: #FFFCCC;
+}
+
+.headp {
+    position: absolute;
+    width: 537px;
+    height: 14px;
+    left: 480px;
+    top: 580px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.head_btn {
+    position: absolute;
+    left: 635px;
+    top: 650px;
+}

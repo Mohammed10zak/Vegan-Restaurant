@@ -1,0 +1,77 @@
+.navBar {
+  position: absolute;
+  width: 988px;
+  height: 76px;
+  left: 290px;
+  top: 135px;
+
+  display: flex;
+  background: #101418;
+  justify-content: space-between;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+nav li {
+  list-style: none;
+}
+
+ul li a {
+  text-decoration: none;
+  width: 80px;
+  text-align: center;
+  align-items: baseline;
+  height: 20px;
+  font-family: "Arial";
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  color: #ffffcc;
+  transition: 0.3s;
+}
+
+ul li a:hover {
+  background: #a08040;
+  padding: 10px;
+}
+
+.book {
+  list-style: none;
+  width: 300px;
+  height: 76px;
+  background: #a08040;
+  border: 7px solid #a08040;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 96.3%;
+  text-align: center;
+  letter-spacing: 0.06em;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.book:hover {
+  font-size: 28px;
+}
+
+.lineB {
+  position: absolute;
+  left: 71.5%;
+  top: 50%;
+  border: 2px solid #ffffff;
+  width: 60px;
+}
+
+.lineA {
+  position: absolute;
+  left: 92%;
+  top: 50%;
+  border: 2px solid #ffffff;
+  width: 60px;
+}

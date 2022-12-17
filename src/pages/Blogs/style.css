@@ -1,0 +1,38 @@
+.blogsTitle {
+  width: 165px;
+  height: 36px;
+  font-family: "Dancing Script";
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 117.3%;
+  margin: auto;
+  letter-spacing: 0.1em;
+  color: #ffce6d;
+  
+}
+
+.blogsDisc {
+  width: 435px;
+  height: 25px;
+  font-family: "Arial";
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 117.3%;
+  margin: auto;
+  margin-top: 0.7em;
+  text-transform: capitalize;
+  color: #fffffc;
+}
+
+.cardBlog {
+  margin-top: 5em;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 40px;
+}
+
+.blogImgReverse {
+  width: 410px;
+  height: 298px;
+  margin-left: -30px;
+}
